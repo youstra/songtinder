@@ -1,0 +1,7 @@
+{
+    "name": "SongTinder",
+    "description": "Song Discovery App",
+    "repository": "https://github.com/youstra/songtinder",
+    "logo": "http://pathToYourLogo.png",
+    "keywords": ["SongTinder"]
+}
