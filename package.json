@@ -1,0 +1,18 @@
+{
+  "name": "songtinder",
+  "version": "1.0.0",
+  "description": "SongTinder - a music discovery app",
+  "dependencies": {
+    "express": "^4.14.0",
+    "gulp": "*",
+    "gulp-concat": "^2.5.2",
+    "gulp-minify-css": "^1.1.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "*"
+  },
+  "devDependencies": {
+    "bower": "^1.4.1",
+    "gulp-util": "^3.0.4",
+    "shelljs": "^0.4.0"
+  }
+}
